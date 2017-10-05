@@ -3,12 +3,4 @@ var BasicCard = function (front, back) {
 	this.back = back;
 };
 
-
-
-
-
-
-
-
-
 module.exports = BasicCard;
