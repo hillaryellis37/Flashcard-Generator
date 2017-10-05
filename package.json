@@ -1,0 +1,27 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "flash card creator",
+  "main": "BasicCard.js",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hillaryellis37/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "flashcard",
+    "cloze deleted"
+  ],
+  "author": "Hillary Ellis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hillaryellis37/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/hillaryellis37/Flashcard-Generator#readme"
+}

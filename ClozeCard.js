@@ -8,9 +8,10 @@ ClozeCard.prototype.partial = function() {
 	
 	if (this.text.includes(this.cloze)) {
 		var clozed = this.text.replace(this.cloze, "...");
-		console.log(clozed);
+		return clozed;
 	} else {
 		console.log(brokenCloze);
+		return false;
 	}
 };
 
